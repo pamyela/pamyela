@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi there 👋, I'm Fhammiell Daelo Noguera
 
-<!--
-**pamyela/pamyela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 About Me
 
-Here are some ideas to get you started:
+🎓 BSIT Student at Laguna State Polytechnic University – Sta. Cruz Main Campus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Python, Flutter, SQL, and Dart
+
+🎯 Goal: To create more projects and become a highly skilled developer
+
+💡 Interested in Software Development, Web & Mobile App Development, and UI/UX Design
+
+🚀 Skills
+
+• Languages: Python, Dart, SQL
+
+• Frameworks/Tools: Flask, Flutter, GitHub
+
+• Other: Web Development Basics
+
+📌 Current Projects
+
+📝 Learning Git and GitHub for version control
+
+🔨 Developing practice projects in Python and Flutter
+
+🌐 Creating small apps as portfolio projects
+
+📫 Connect with Me
+
+• Email: noguerafhammiell@gmail.com
+
+⭐ “Keep coding, keep improving.”
