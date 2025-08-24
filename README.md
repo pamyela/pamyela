@@ -13,13 +13,17 @@ Hi there 👋, I'm Fhammiell Daelo Noguera
 🚀 Skills
 
 • Languages: Python 🐍 , Dart 💡, SQL 📊
+
 • Frameworks/Tools: Flask 🧰 , Flutter 📱 , GitHub 🤝
+
 • Other: Web Development Basics 🌐 and  UI/UX Design 🎨
 
 📌 Current Projects
 
 📱 Building practice projects in Python 🐍 and Flutter 
+
 📈 Creating small apps for portfolio projects
+
 🔄 Mastering Git and GitHub for seamless version control 
 
 📫 Connect with Me
