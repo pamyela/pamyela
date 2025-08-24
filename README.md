@@ -8,26 +8,22 @@ Hi there 👋, I'm Fhammiell Daelo Noguera
 
 🎯 Goal: To create more projects and become a highly skilled developer
 
-💡 Interested in Software Development, Web & Mobile App Development, and UI/UX Design
+💡 Interested in Software Development 🌟 and UI/UX Design 🎨
 
 🚀 Skills
 
-• Languages: Python, Dart, SQL
-
-• Frameworks/Tools: Flask, Flutter, GitHub
-
-• Other: Web Development Basics
+• Languages: Python 🐍 , Dart 💡, SQL 📊
+• Frameworks/Tools: Flask 🧰 , Flutter 📱 , GitHub 🤝
+• Other: Web Development Basics 🌐 and  UI/UX Design 🎨
 
 📌 Current Projects
 
-📝 Learning Git and GitHub for version control
-
-🔨 Developing practice projects in Python and Flutter
-
-🌐 Creating small apps as portfolio projects
+📱 Building practice projects in Python 🐍 and Flutter 
+📈 Creating small apps for portfolio projects
+🔄 Mastering Git and GitHub for seamless version control 
 
 📫 Connect with Me
 
 • Email: noguerafhammiell@gmail.com
 
-⭐ “Keep coding, keep improving.”
+⭐ “Keep coding, keep improving. Let's build something amazing together!" 🚀
